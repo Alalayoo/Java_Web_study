@@ -1,4 +1,4 @@
-package com.itec.netlab;
+package com.itec.netlab.controller;
 
 
 
