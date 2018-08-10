@@ -17,7 +17,7 @@ public class CustomerService {
         return null;
     }
 
-    public boolean creatCustomer(Map<String, Object> filedMap){
+    public boolean createCustomer(Map<String, Object> filedMap){
 
         return false;
     }
